@@ -2,6 +2,10 @@ groq
 nest_asyncio
 streamlit
 duckduckgo_search
+langchain
+langchain-community
+unstructured
+openai==0.28.0
 
 groq
 phidata

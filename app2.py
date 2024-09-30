@@ -19,7 +19,7 @@ st.set_page_config(
     page_icon=":orange_heart:",
 )
 
-st.title("Write News Articles powered by OpenAI")
+st.title("Create News Articles powered by OpenAI")
 
 st.markdown("##### :orange_heart: built using OpenAI's API")
 
